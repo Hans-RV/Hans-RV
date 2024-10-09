@@ -11,7 +11,7 @@
 
 <div align="center">
  
- 🔭 I’m currently studying at **Institute of Engineering & management**
+ 🔭 I’m currently studying at **Institute of Engineering & Management**
  
  🌱 I’m currently learning **DSA &  ML**
 
