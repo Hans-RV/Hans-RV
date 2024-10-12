@@ -39,7 +39,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,vscode,github,figma,git,linux" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,c,java,arduino,matlab,Pandas,pytorch,tensorflow" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,c,java,arduino,matlab,discord,pytorch,tensorflow" /><br>
 </div>
 
 <br/>
