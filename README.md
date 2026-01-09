@@ -1,73 +1,59 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=hans-rv.hans-rv" />
+# Hey, I’m **Hans Raj Vats**
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Hans+Raj+Vats!;" />
-</h1>
+```typescript
+const hans = {
+  role: "Full Stack Developer & Web3 Builder",
+  passion: ["Breaking Things (Then Fixing Them)", "Overthinking Simple Solutions"],
+  currentFocus: [
+    "🤖 AI-powered Applications",
+    "🌐 Full Stack Web Development",
+    "⛓️ Web3 & Blockchain Systems"
+  ],
+  expertise: {
+    backend: "APIs & System Design",
+    frontend: "Clean UI with Modern Frameworks",
+    cloud: "Vercel & Cloudflare"
+  },
+  mindset: "Shipping > overthinking"
+};
+```
 
-<h3 align="center">A passionate software developer from India</h3>
+## **Tech Stack**
 
-<br/>
+<div>
 
-<div align="center">
- 
- 🔭 I’m currently studying at **Institute of Engineering & Management**
- 
- 🌱 I’m currently learning **DSA &  ML**
+![React](https://img.shields.io/badge/React-21262d?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-21262d?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-21262d?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![JavaScript](https://img.shields.io/badge/JavaScript-21262d?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-21262d?style=for-the-badge&logo=tailwind-css&logoColor=06B6D4)
+![Node.js](https://img.shields.io/badge/Node.js-21262d?style=for-the-badge&logo=node.js&logoColor=339933)
+![Express.js](https://img.shields.io/badge/Express.js-21262d?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-21262d?style=for-the-badge&logo=mongodb&logoColor=47A248)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-21262d?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+![Ethereum](https://img.shields.io/badge/Ethereum-21262d?style=for-the-badge&logo=ethereum&logoColor=627EEA)
+![Docker](https://img.shields.io/badge/Docker-21262d?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Vercel](https://img.shields.io/badge/Vercel-21262d?style=for-the-badge&logo=vercel&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-21262d?style=for-the-badge&logo=cloudflare&logoColor=F38020)
 
-💬 Ask me about **IOT & ML... or anything [here](https://github.com/hans-rv/hans-rv/issues)**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+## **Let's Connect**
 
- </div>
- 
-<div align="center"> 
-  <a href="mailto:hansrajvats.iem@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://linkedin.com/in/hansrajvats" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://hans-rv.github.io" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
-</div>
-
- <hr/>
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,figma,git,linux" />
-    <img src="https://skillicons.dev/icons?i=python,javascript,c,java,arduino,matlab,discord,pytorch,tensorflow" /><br>
-</div>
-
-<br/>
-<hr/>
-
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+<div>
   
-  <br/><br/><br/>
+[![Email](https://img.shields.io/badge/Gmail-21262d?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:hansrajvats.iem@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-21262d?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/hansrajvats)
+[![Twitter](https://img.shields.io/badge/X-21262d?style=for-the-badge&logo=x&logoColor=white)](https://www.twitter.com/hansrajvats)
+[![GitHub](https://img.shields.io/badge/GitHub-21262d?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hans-RV)
+
 </div>
 
-<hr/>
+<div>
 
-[![An image of @hansrv's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/hansrv)](https://holopin.io/@hansrv)
+<img src="https://komarev.com/ghpvc/?username=Hans-RV&color=21262d&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
 
-## GSSOC(24) Badges 🪶
-<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
-<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="105px" height="105px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/7.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/8.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Code%20Luminary.png" width="105px" height="105px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Pull%20Expert.png" width="100px" height="100px" /></a>
+</div>
+
+<div align="right">
+<sub>Last Updated: 4|1|26</sub>
 </div>
