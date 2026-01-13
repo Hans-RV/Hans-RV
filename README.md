@@ -57,3 +57,5 @@ const hans = {
 <div align="right">
 <sub>Last Updated: 4|1|26</sub>
 </div>
+
+[![An image of @hansrv's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/hansrv)](https://holopin.io/@hansrv)
